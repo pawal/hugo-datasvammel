@@ -1,9 +1,10 @@
 ---
 author: pawal
-categories:
-- DNS
-- Säkerhet
-- Svammel
+tags:
+- dns
+- säkerhet
+- svammel
+- domäner
 date: 2015-10-27T20:17:42Z
 guid: https://pawal.blipp.com/?p=37711
 id: 37711

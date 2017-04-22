@@ -1,7 +1,7 @@
 ---
 author: pawal
-categories:
-- Creeper
+tags:
+- creeper
 date: 2010-09-04T16:12:00Z
 guid: http://pawal.blipp.com/?p=831
 has_been_twittered:

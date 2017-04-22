@@ -1,7 +1,7 @@
 ---
 author: pawal
-categories:
-- Svammel
+tags:
+- svammel
 date: 2011-01-04T21:50:15Z
 guid: http://pawal.blipp.com/?p=15195
 has_been_twittered:
@@ -13,7 +13,7 @@ url: /svammel/topp-10-internethandelser-2010
 
 Nu är ju 2010 slut. Så jag tänkte sammanfatta de största Internethändelserna 2010 så som jag ser det. Jag hoppas jag kommer ihåg rätt bara. Men det här är ungefär min uppfattning:
 <ol>
-	<li><strong>Wikileaks</strong> - ingen har väl undgått effekterna av Wikileaks. Diplomatin, politiken och näringslivet är raaaaasande! Det fria och öppna Internet som vi känner är i farozonen. Julian Assange är konstigt. Openleaks utannonseras. Det finns hur mycket stoff för journalister och allmänheten som helst att hämta här.</li>
+	<li><strong>Wikileaks</strong> - ingen har väl undgått effekterna av Wikileaks. Diplomatin, politiken och näringslivet är raaaaasande! Det fria och öppna Internet som vi känner är i farozonen. Julian Assange är konstig. Openleaks utannonseras. Det finns hur mycket stoff för journalister och allmänheten som helst att hämta här.</li>
 	<li><strong>HTML5</strong> - växer med stormsteg. Allt fler viktiga sajter kör allt mer bitar ur HTML5. Hur ska det gå för Flash?</li>
 	<li><strong>DNSSEC</strong>-signerad root. Som vi har väntat. .SE har varit signerad i över fem år. Men det är först nu när root är signerad som vi ser storskalig utrullning.</li>
 	<li><strong>Molnet</strong> - det använder du väl? Lite? Vänta, vad är det för något? Ingen vet, men alla talar om det.</li>

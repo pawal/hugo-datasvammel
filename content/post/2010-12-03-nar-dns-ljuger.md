@@ -1,8 +1,8 @@
 ---
 author: pawal
-categories:
-- DNS
-- Säkerhet
+tags:
+- dns
+- säkerhet
 date: 2010-12-03T10:32:11Z
 guid: http://pawal.blipp.com/?p=13153
 has_been_twittered:
@@ -12,9 +12,25 @@ title: När DNS ljuger
 url: /sakerhet/nar-dns-ljuger
 ---
 
-Man kan väl minst sagt konstatera att DNS hamnat i fokus den senaste veckan, inte minst i ljuset av Verisigns ompekningar av ett större antal domäner, men också Wikileaks problem med att vara tillgängliga. Senast ut med Wikileaks är att deras DNS-tjänst som sköttes av <a href="http://www.everydns.com/">EveryDNS</a> <a href="http://www.bbc.co.uk/news/world-us-canada-11907641">plockade bort</a> wikileaks.org från sina namnservrar. Anledningen är att namnservrarna utsattes för en DDoS-attack, vilket skulle få nästan vilken leverantör som helst att ta bort det domännamn som är orsaken till problemet, eftersom detta går ut över alla andra kunder.
+Man kan väl minst sagt konstatera att DNS hamnat i fokus den senaste
+veckan, inte minst i ljuset av Verisigns ompekningar av ett större
+antal domäner, men också Wikileaks problem med att vara
+tillgängliga. Senast ut med Wikileaks är att deras DNS-tjänst som
+sköttes av <a href="http://www.everydns.com/">EveryDNS</a> <a
+href="http://www.bbc.co.uk/news/world-us-canada-11907641">plockade
+bort</a> wikileaks.org från sina namnservrar. Anledningen är att
+namnservrarna utsattes för en DDoS-attack, vilket skulle få nästan
+vilken leverantör som helst att ta bort det domännamn som är orsaken
+till problemet, eftersom detta går ut över alla andra kunder.
 
-Företaget <a href="http://www.renesys.com/">Renesys</a>, känt för sina rapporter om olika aspekter av Internet, mer eller mindre bra, har i en bloggpost <a href="http://www.renesys.com/blog/2010/12/dns-when-governments-lie-2.shtml">skissat på ett litet betygssystem</a> för hur DNS hanteras i olika länder. Vi vet ju att man från operatörshåll i Sverige filtrerar visst innehåll. Så hur illa är detta i Renesys betygssystem? Först listar jag detta betygsystem här:
+Företaget <a href="http://www.renesys.com/">Renesys</a>, känt för sina
+rapporter om olika aspekter av Internet, mer eller mindre bra, har i
+en bloggpost <a
+href="http://www.renesys.com/blog/2010/12/dns-when-governments-lie-2.shtml">skissat
+på ett litet betygssystem</a> för hur DNS hanteras i olika länder. Vi
+vet ju att man från operatörshåll i Sverige filtrerar visst
+innehåll. Så hur illa är detta i Renesys betygssystem? Först listar
+jag detta betygsystem här:
 
 <dt>★★★★★</dt>
 <p style="padding-left: 30px;">Entirely safe. Providers in this country respect DNS integrity and never rewrite DNS responses. Even if you mistype a domain, you get an obvious non-existent domain (NXDOMAIN) error message and not an advertisement. When asking questions you always receive the intended answers.</p>
