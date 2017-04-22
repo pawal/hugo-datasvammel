@@ -1,8 +1,8 @@
 ---
 author: pawal
-categories:
-- Humor
-- Programmering
+tags:
+- humor
+- programmering
 date: 2008-02-15T21:04:39Z
 guid: http://pawal.blipp.com/programmering/associationer-kring-http
 id: 101
