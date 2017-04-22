@@ -1,7 +1,7 @@
 ---
 author: pawal
-categories:
-- Creeper
+tags:
+- creeper
 date: 2009-01-18T14:15:50Z
 guid: http://pawal.blipp.com/?p=139
 id: 139
@@ -9,7 +9,11 @@ title: Regeringskansliet har lite nya nät
 url: /creeper/regeringskansliet-har-lite-nya-nat
 ---
 
-Jag fick en timme över till att leta lite fler nät för Creeper idag. Regeringskansliets tekniker har varit i farten och skaffat sig en hel mängd nya nät. Det kanske är dags för dem att rensa upp rejält i sina nätverk snart, det verkar bli trassligt. Dessa är nämligen alla deras nya nät:
+Jag fick en timme över till att leta lite fler nät för Creeper
+idag. Regeringskansliets tekniker har varit i farten och skaffat sig
+en hel mängd nya nät. Det kanske är dags för dem att rensa upp rejält
+i sina nätverk snart, det verkar bli trassligt. Dessa är nämligen alla
+deras nya nät:
 
 <pre>
 194.16.84.160 - 194.16.84.167   Regeringskansliet

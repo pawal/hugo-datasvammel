@@ -1,7 +1,7 @@
 ---
 author: pawal
-categories:
-- Creeper
+tags:
+- creeper
 date: 2008-12-23T12:26:09Z
 guid: http://pawal.blipp.com/?p=137
 id: 137
@@ -9,7 +9,11 @@ title: Fler IP-adresser övervakas
 url: /creeper/fler-ip-adresser-overvarakas
 ---
 
-Med lite ledighet i ryggen kan man sätta sig ner i lugn och ro och leta lite i RIPE:s databas. Och minsann, har det inte hänt en del på partifronten. Jag har lagt till dessa IP-adresser till <a href="http://gnuheter.com/creeper/senaste">Creeper</a> nu:
+Med lite ledighet i ryggen kan man sätta sig ner i lugn och ro och
+leta lite i RIPE:s databas. Och minsann, har det inte hänt en del på
+partifronten. Jag har lagt till dessa IP-adresser till <a
+href="http://gnuheter.com/creeper/senaste">Creeper</a> nu:
+
 <pre>62.127.100.40 - 62.127.100.47     Arbetsgivarverket
 213.80.62.4 - 213.80.62.7         Sveriges Socialdemokratiska Arbetareparti
 212.37.27.8 - 212.37.27.23        Sveriges Socialdemokratiska Arbetareparti
@@ -30,4 +34,5 @@ Med lite ledighet i ryggen kan man sätta sig ner i lugn och ro och leta lite i 
 213.115.175.252 - 213.115.175.255 Kristdemokraterna i Jönköpings län
 </pre>
 
-Mer bidrag tas dock gärna emot. Ta en tur runt <a href="http://www.ripe.net/db/whois-free.html">fritextsökningen</a>...
+Mer bidrag tas dock gärna emot. Ta en tur runt <a
+href="http://www.ripe.net/db/whois-free.html">fritextsökningen</a>...

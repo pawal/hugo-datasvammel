@@ -1,7 +1,7 @@
 ---
 author: pawal
-categories:
-- IPv6
+tags:
+- ipv6
 date: 2008-11-21T18:02:57Z
 guid: http://pawal.blipp.com/?p=133
 id: 133
@@ -9,7 +9,11 @@ title: Traceroutar vi minns
 url: /ipv6/traceroutar-vi-minns
 ---
 
-Jag sitter just nu på hotellrummet i Minneapolis, där IETF just nu pågår. Jag har packat färdigt och är på väg till flygplatsen, men har några minuter på mig. Så varför inte kolla vad det är för nät jag sitter på?
+Jag sitter just nu på hotellrummet i Minneapolis, där IETF just nu
+pågår. Jag har packat färdigt och är på väg till flygplatsen, men har
+några minuter på mig. Så varför inte kolla vad det är för nät jag
+sitter på?
+
 <pre>randombot$~&gt;traceroute6 vic20.blipp.com
 traceroute6 to vic20.blipp.com (2001:16d8:ff00:2a9::2) from 2001:df8::64:21f:5bff:fec4:a415, 30 hops max, 12 byte packets
  1  2001:df8:0:64::3  2.893 ms  15.19 ms  2.083 ms
@@ -22,7 +26,9 @@ traceroute6 to vic20.blipp.com (2001:16d8:ff00:2a9::2) from 2001:df8::64:21f:5bf
  8  v1316-r84.cr0-r87.hy-sto.se.ip6.p80.net  193.431 ms  196.41 ms  192.908 ms
  9  sixxs-hy-demarc0.cust.ip6.p80.net  193.71 ms  193.279 ms  193.783 ms
 10  cl-682.sto-01.se.sixxs.net  194.929 ms  197.617 ms  194.349 ms</pre>
+
 Jämför med IPv4-motsvarigheten:
+
 <pre>randombot$~&gt;traceroute vic20.blipp.com
 traceroute to vic20.blipp.com (217.75.101.38), 64 hops max, 40 byte packets
  1  rtra-guestroom.meeting.ietf.org (130.129.64.2)  4.332 ms  3.237 ms  1.644 ms
@@ -34,10 +40,25 @@ traceroute to vic20.blipp.com (217.75.101.38), 64 hops max, 40 byte packets
  7  ge1-0.dr1.hy-sto.se.p80.net (217.75.108.8)  137.143 ms  137.557 ms  137.212 ms
  8  fw1.webtajm.net (217.75.101.2)  137.868 ms  137.602 ms  138.350 ms
  9  vic20.blipp.com (217.75.101.38)  138.253 ms  139.151 ms  138.188 ms</pre>
-Det finns några detaljer som skiljer dessa båda traceroutar åt. Förutom det uppenbara att det är två olika protokoll vi pratar om. En av sakerna är ju antalet hopp på väg till destinationen. För IPv4 är det nio hopp, medan det för IPv6 är 10 hopp. Men det är bara en illusion, på destinationen vic20.blipp.com kör jag nämligen en IPv6-tunnel från <a href="https://www.sixxs.net/">sixxs.net</a>, vilket innehär att från sixxs.net-tunneln kör IPv4 hela vägen in till min vic20. Så antalet riktiga hopp har jag helt enkelt ingen aning om, eller vilken väg mina IPv4-paket egentligen färdas.
 
-En annan sak som skiljer är baklängesuppslagningen på IP-adresserna. För IPv4-versionen är det bara en IP-adress som saknar baklängesuppslagning. På IPv6-versionen är det fem! Och det är ovanligt bra. Jag inbillar mig att situationen långsamt blir bättre, ju mer folk bryr sig om sina IPv6-nät.
+Det finns några detaljer som skiljer dessa båda traceroutar
+åt. Förutom det uppenbara att det är två olika protokoll vi pratar
+om. En av sakerna är ju antalet hopp på väg till destinationen. För
+IPv4 är det nio hopp, medan det för IPv6 är 10 hopp. Men det är bara
+en illusion, på destinationen vic20.blipp.com kör jag nämligen en
+IPv6-tunnel från <a href="https://www.sixxs.net/">sixxs.net</a>,
+vilket innehär att från sixxs.net-tunneln kör IPv4 hela vägen in till
+min vic20. Så antalet riktiga hopp har jag helt enkelt ingen aning om,
+eller vilken väg mina IPv4-paket egentligen färdas.
 
-Ytterligare en sak som skiljer är latensen. Den skiljer sig inte så hemskt mycket åt. Det är på en IPv6-länk som jag får lång svarstid, i övrigt så ligger ju tunnlad IPv6 självklart något högre än IPv4.
+En annan sak som skiljer är baklängesuppslagningen på
+IP-adresserna. För IPv4-versionen är det bara en IP-adress som saknar
+baklängesuppslagning. På IPv6-versionen är det fem! Och det är
+ovanligt bra. Jag inbillar mig att situationen långsamt blir bättre,
+ju mer folk bryr sig om sina IPv6-nät.
+
+Ytterligare en sak som skiljer är latensen. Den skiljer sig inte så
+hemskt mycket åt. Det är på en IPv6-länk som jag får lång svarstid, i
+övrigt så ligger ju tunnlad IPv6 självklart något högre än IPv4.
 
 Nej, dags att ta sig till flygplatsen.
