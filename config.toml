@@ -11,6 +11,9 @@ theme = "blackburn"
   tag = "tags"
   topic = "topics"
 
+[taxonomies]
+  tax = "tags"
+
 [params]
   # Shown in the home page
   subtitle = "Patrik Wallströms blog"
@@ -18,7 +21,8 @@ theme = "blackburn"
   #googleAnalytics = "Your Google Analytics tracking ID"
   #disqus = "Your Disqus shortname"
   # CSS name for highlight.js
-  highlightjs = "androidstudio"
+  #highlightjs = "androidstudio"
+  highlightjs = "foundation"
   dateFormat = "02 Jan 2006, 15:04"
   # Include any custom CSS and/or JS files
   # (relative to /static folder)
@@ -66,7 +70,7 @@ theme = "blackburn"
 
   # SNS photo/video sharing
   instagram = "pawal"
-  flickr = "pawalblipp"
+  flickr = "pawal"
   #pinterest = "*"
   #youtube = "*"
   #vimeo = "*"
