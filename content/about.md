@@ -33,3 +33,9 @@ Creeper är ett projekt för att driva undervakning, eller sousveillance. Just n
 Jag nås bäst på min e-postadress [pawal@blipp.com](mailto:pawal@blipp.com)
 
 Se fler kontaktvägar under [Kontakt](/contact/).
+
+## Andra bloggar
+
+Jag har mellan 2002 och 2016 varit anställd på [IIS](https://www.iis.se/) och
+därmed bloggat flitigt på deras blogg. Dessa inlägg hittar man
+[här](https://www.iis.se/bloggare/pawal/).
