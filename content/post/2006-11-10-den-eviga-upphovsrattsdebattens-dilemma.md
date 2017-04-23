@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- upphovsrätt
 date: 2006-11-10T11:00:45Z
 guid: http://pawal.blipp.com/upphovsratt/den-eviga-upphovsrattsdebattens-dilemma
 id: 59
+tags:
+- upphovsrätt
 title: Den eviga upphovsrättsdebattens dilemma
 url: /upphovsratt/den-eviga-upphovsrattsdebattens-dilemma
 ---

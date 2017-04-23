@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- visualisering
 date: 2007-06-07T22:41:24Z
 guid: http://pawal.blipp.com/visualisering/akamai-visualiserar-trafik
 id: 82
+tags:
+- visualisering
 title: Akamai visualiserar trafik
 url: /visualisering/akamai-visualiserar-trafik
 ---

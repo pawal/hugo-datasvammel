@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- mjukvara
-- programmering
 date: 2007-06-08T12:53:49Z
 guid: http://pawal.blipp.com/programmering/voodoo-programmering
 id: 83
+tags:
+- mjukvara
+- programmering
 title: Voodoo-programmering
 url: /mjukvara/voodoo-programmering
 ---

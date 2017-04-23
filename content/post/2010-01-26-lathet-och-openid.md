@@ -1,15 +1,15 @@
 ---
 author: pawal
-tags:
-- identitet
-- mjukvara
-- säkerhet
-- openid
 date: 2010-01-26T20:57:08Z
 guid: http://pawal.blipp.com/?p=177
 id: 177
 jd_tweet_this:
 - "yes"
+tags:
+- identitet
+- mjukvara
+- säkerhet
+- openid
 title: Lathet och OpenID
 url: /identitet/lathet-och-openid
 wp_jd_clig:

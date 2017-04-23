@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2014-04-06T18:26:40Z
+guid: http://pawal.blipp.com/?p=37662
+id: 37662
 tags:
 - hårdvara
 - linux
 - svammel
-date: 2014-04-06T18:26:40Z
-guid: http://pawal.blipp.com/?p=37662
-id: 37662
 title: Jag har en ny server
 url: /hardvara/jag-har-en-ny-server
 ---

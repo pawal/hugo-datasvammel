@@ -1,14 +1,14 @@
 ---
 author: pawal
-tags:
-- oldschool
-- svammel
-- piratkopiering
 date: 2010-10-21T13:09:06Z
 guid: http://pawal.blipp.com/?p=8582
 has_been_twittered:
 - "yes"
 id: 8582
+tags:
+- oldschool
+- svammel
+- piratkopiering
 title: Öppet brev till scenen
 url: /oldschool/oppet-brev-till-scenen
 ---

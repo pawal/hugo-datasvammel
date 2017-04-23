@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- journalister
-- web2.0
 date: 2006-06-02T20:51:54Z
 guid: http://pawal.blipp.com/web20/svd-experimenterar-med-remixade-artiklar
 id: 47
+tags:
+- journalister
+- web2.0
 title: SvD experimenterar med remixade artiklar
 url: /web20/svd-experimenterar-med-remixade-artiklar
 ---

@@ -1,13 +1,13 @@
 ---
 author: pawal
+date: 2005-12-30T21:36:17Z
+guid: http://datasvammel.blipp.com/?p=12
+id: 12
 tags:
 - hacks
 - hårdvara
 - ljud
 - musik
-date: 2005-12-30T21:36:17Z
-guid: http://datasvammel.blipp.com/?p=12
-id: 12
 title: Första Squeezebox-hacket
 url: /musik/forsta-squeezebox-hacket
 ---

@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- ietf
-- oldschool
 date: 2006-02-08T19:02:17Z
 guid: http://datasvammel.blipp.com/?p=4
 id: 4
+tags:
+- ietf
+- oldschool
 title: Datorarkeologi
 url: /ietf/datorarkeologi
 ---

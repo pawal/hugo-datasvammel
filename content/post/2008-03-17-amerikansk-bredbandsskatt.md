@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- musik
-- upphovsrätt
 date: 2008-03-17T14:38:24Z
 guid: http://pawal.blipp.com/musik/amerikansk-bredbandsskatt
 id: 103
+tags:
+- musik
+- upphovsrätt
 title: Amerikansk bredbandsskatt
 url: /musik/amerikansk-bredbandsskatt
 ---

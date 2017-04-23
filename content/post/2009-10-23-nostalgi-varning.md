@@ -1,15 +1,15 @@
 ---
 author: pawal
-tags:
-- humor
-- journalister
-- säkerhet
-- svammel
 date: 2009-10-23T21:36:57Z
 guid: http://pawal.blipp.com/?p=173
 id: 173
 jd_tweet_this:
 - "yes"
+tags:
+- humor
+- journalister
+- säkerhet
+- svammel
 title: Nostalgi-varning
 url: /journalister/nostalgi-varning
 wp_jd_clig:

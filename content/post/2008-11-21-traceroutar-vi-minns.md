@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- ipv6
 date: 2008-11-21T18:02:57Z
 guid: http://pawal.blipp.com/?p=133
 id: 133
+tags:
+- ipv6
 title: Traceroutar vi minns
 url: /ipv6/traceroutar-vi-minns
 ---

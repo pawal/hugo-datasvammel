@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- hacks
-- spam
 date: 2006-11-13T22:24:18Z
 guid: http://pawal.blipp.com/hacks/spam-spam-spam-och-bildanalys
 id: 60
+tags:
+- hacks
+- spam
 title: Spam, spam, spam, och bildanalys
 url: /hacks/spam-spam-spam-och-bildanalys
 ---

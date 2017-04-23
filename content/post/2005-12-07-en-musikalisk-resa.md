@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- ljud
-- musik
 date: 2005-12-07T13:47:30Z
 guid: http://datasvammel.blipp.com/?p=18
 id: 18
+tags:
+- ljud
+- musik
 title: En musikalisk resa
 url: /musik/en-musikalisk-resa
 ---

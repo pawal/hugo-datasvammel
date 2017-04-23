@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- humor
-- programmering
 date: 2008-02-15T21:04:39Z
 guid: http://pawal.blipp.com/programmering/associationer-kring-http
 id: 101
+tags:
+- humor
+- programmering
 title: Associationer kring HTTP
 url: /programmering/associationer-kring-http
 ---

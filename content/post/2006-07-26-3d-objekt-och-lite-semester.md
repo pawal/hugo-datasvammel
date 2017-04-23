@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- mjukvara
-- upphovsrätt
 date: 2006-07-26T20:14:10Z
 guid: http://pawal.blipp.com/upphovsratt/3d-objekt-och-lite-semester
 id: 51
+tags:
+- mjukvara
+- upphovsrätt
 title: 3D-objekt och lite semester
 url: /upphovsratt/3d-objekt-och-lite-semester
 ---

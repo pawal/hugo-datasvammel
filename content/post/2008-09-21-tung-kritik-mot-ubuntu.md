@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- linux
-- mjukvara
 date: 2008-09-21T22:06:34Z
 guid: http://pawal.blipp.com/?p=127
 id: 127
+tags:
+- linux
+- mjukvara
 title: Tung kritik mot Ubuntu
 url: /linux/tung-kritik-mot-ubuntu
 ---

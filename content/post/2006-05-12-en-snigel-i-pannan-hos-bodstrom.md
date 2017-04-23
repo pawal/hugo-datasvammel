@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- integritet
-- politik
 date: 2006-05-12T08:50:52Z
 guid: http://pawal.blipp.com/integritet/en-snigel-i-pannan-hos-bodstrom
 id: 40
+tags:
+- integritet
+- politik
 title: En snigel i pannan hos Bodström
 url: /integritet/en-snigel-i-pannan-hos-bodstrom
 ---

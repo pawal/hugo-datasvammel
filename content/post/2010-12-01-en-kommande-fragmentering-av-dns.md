@@ -1,14 +1,14 @@
 ---
 author: pawal
-tags:
-- dns
-- hacks
-- svammel
 date: 2010-12-01T22:34:44Z
 guid: http://pawal.blipp.com/?p=12969
 has_been_twittered:
 - "yes"
 id: 12969
+tags:
+- dns
+- hacks
+- svammel
 title: En kommande fragmentering av DNS
 url: /hacks/en-kommande-fragmentering-av-dns
 ---

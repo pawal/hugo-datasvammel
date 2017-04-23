@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2006-04-23T16:06:01Z
+guid: http://pawal.blipp.com/integritet/upp-och-ner-med-sociala-natverk
+id: 38
 tags:
 - identitet
 - integritet
 - politik
-date: 2006-04-23T16:06:01Z
-guid: http://pawal.blipp.com/integritet/upp-och-ner-med-sociala-natverk
-id: 38
 title: Upp och ner med sociala nätverk
 url: /integritet/upp-och-ner-med-sociala-natverk
 ---

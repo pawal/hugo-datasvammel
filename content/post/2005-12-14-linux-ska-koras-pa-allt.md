@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- hårdvara
-- linux
 date: 2005-12-14T20:43:52Z
 guid: http://datasvammel.blipp.com/?p=16
 id: 16
+tags:
+- hårdvara
+- linux
 title: Linux ska köras på allt
 url: /hardvara/linux-ska-koras-pa-allt
 ---

@@ -1,13 +1,13 @@
 ---
 author: pawal
+date: 2014-05-21T14:28:52Z
+guid: http://pawal.blipp.com/?p=37667
+id: 37667
 tags:
 - dns
 - ietf
 - integritet
 - säkerhet
-date: 2014-05-21T14:28:52Z
-guid: http://pawal.blipp.com/?p=37667
-id: 37667
 title: DNS Privacy - krypterad DNS
 url: /ietf/dns-privacy-krypterad-dns
 ---

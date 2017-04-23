@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- linux
-- ljud
 date: 2006-05-23T07:56:59Z
 guid: http://pawal.blipp.com/linux/linux-audio-workstation
 id: 45
+tags:
+- linux
+- ljud
 title: Linux Audio Workstation
 url: /linux/linux-audio-workstation
 ---

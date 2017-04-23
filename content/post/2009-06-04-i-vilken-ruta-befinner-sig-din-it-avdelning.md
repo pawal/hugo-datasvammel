@@ -1,12 +1,12 @@
 ---
 author: pawal
-tags:
-- svammel
 date: 2009-06-04T08:52:09Z
 guid: http://pawal.blipp.com/?p=157
 id: 157
 jd_tweet_this:
 - "yes"
+tags:
+- svammel
 title: I vilken ruta befinner sig din IT-avdelning?
 url: /svammel/i-vilken-ruta-befinner-sig-din-it-avdelning
 wp_jd_clig:

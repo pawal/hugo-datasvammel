@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- hacks
 date: 2006-04-07T08:09:37Z
 guid: http://pawal.blipp.com/hacks/cuteoverloadaptcha
 id: 36
+tags:
+- hacks
 title: CuteoverloadAPTCHA
 url: /hacks/cuteoverloadaptcha
 ---

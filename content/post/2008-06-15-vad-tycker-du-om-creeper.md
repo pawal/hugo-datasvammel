@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2008-06-15T22:37:26Z
+guid: http://pawal.blipp.com/?p=115
+id: 115
 tags:
 - creeper
 - integritet
 - statistik
-date: 2008-06-15T22:37:26Z
-guid: http://pawal.blipp.com/?p=115
-id: 115
 title: Vad tycker du om Creeper?
 url: /integritet/vad-tycker-du-om-creeper
 ---

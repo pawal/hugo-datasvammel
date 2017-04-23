@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- upphovsrätt
 date: 2006-10-11T22:07:55Z
 guid: http://pawal.blipp.com/upphovsratt/dags-att-piratkopiera-wesc
 id: 58
+tags:
+- upphovsrätt
 title: Dags att piratkopiera WeSC
 url: /upphovsratt/dags-att-piratkopiera-wesc
 ---

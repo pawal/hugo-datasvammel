@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- ljud
-- musik
 date: 2006-01-22T17:22:31Z
 guid: http://datasvammel.blipp.com/?p=9
 id: 9
+tags:
+- ljud
+- musik
 title: Ljudglädje
 url: /musik/ljudgladje
 ---

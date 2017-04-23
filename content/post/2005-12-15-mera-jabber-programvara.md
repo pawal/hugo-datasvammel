@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- linux
 date: 2005-12-15T22:29:24Z
 guid: http://datasvammel.blipp.com/?p=14
 id: 14
+tags:
+- linux
 title: Mera jabber-programvara
 url: /linux/mera-jabber-programvara
 ---

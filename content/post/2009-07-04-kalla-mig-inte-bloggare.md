@@ -1,13 +1,13 @@
 ---
 author: pawal
-tags:
-- journalister
-- svammel
 date: 2009-07-04T11:57:34Z
 guid: http://pawal.blipp.com/?p=161
 id: 161
 jd_tweet_this:
 - "yes"
+tags:
+- journalister
+- svammel
 title: Kalla mig inte bloggare
 url: /journalister/kalla-mig-inte-bloggare
 wp_jd_clig:

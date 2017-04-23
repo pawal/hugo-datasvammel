@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2007-05-25T18:40:06Z
+guid: http://pawal.blipp.com/spam/en-riktigt-bra-captcha
+id: 81
 tags:
 - mjukvara
 - säkerhet
 - spam
-date: 2007-05-25T18:40:06Z
-guid: http://pawal.blipp.com/spam/en-riktigt-bra-captcha
-id: 81
 title: En riktigt bra CAPTCHa
 url: /sakerhet/en-riktigt-bra-captcha
 ---

@@ -1,13 +1,13 @@
 ---
 author: pawal
+date: 2008-01-18T13:17:12Z
+guid: http://pawal.blipp.com/integritet/att-dolja-eller-inte
+id: 100
 tags:
 - creeper
 - integritet
 - journalister
 - politik
-date: 2008-01-18T13:17:12Z
-guid: http://pawal.blipp.com/integritet/att-dolja-eller-inte
-id: 100
 title: Att dölja eller inte
 url: /integritet/att-dolja-eller-inte
 ---

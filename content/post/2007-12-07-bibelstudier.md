@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- integritet
-- säkerhet
 date: 2007-12-07T11:24:51Z
 guid: http://pawal.blipp.com/integritet/bibelstudier
 id: 99
+tags:
+- integritet
+- säkerhet
 title: Bibelstudier
 url: /integritet/bibelstudier
 ---

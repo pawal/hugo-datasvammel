@@ -1,13 +1,13 @@
 ---
 author: pawal
+date: 2006-05-15T07:32:11Z
+guid: http://pawal.blipp.com/linux/gnuheter-som-planet
+id: 42
 tags:
 - gnuheter
 - linux
 - politik
 - upphovsrätt
-date: 2006-05-15T07:32:11Z
-guid: http://pawal.blipp.com/linux/gnuheter-som-planet
-id: 42
 title: Gnuheter som Planet
 url: /linux/gnuheter-som-planet
 ---

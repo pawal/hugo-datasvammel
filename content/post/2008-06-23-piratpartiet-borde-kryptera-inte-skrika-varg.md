@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- politik
-- säkerhet
 date: 2008-06-23T12:20:48Z
 guid: http://pawal.blipp.com/?p=116
 id: 116
+tags:
+- politik
+- säkerhet
 title: Piratpartiet borde kryptera, inte skrika varg
 url: /politik/piratpartiet-borde-kryptera-inte-skrika-varg
 ---

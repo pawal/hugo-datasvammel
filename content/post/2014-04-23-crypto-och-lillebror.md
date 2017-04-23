@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2014-04-23T09:28:32Z
+guid: http://pawal.blipp.com/?p=37664
+id: 37664
 tags:
 - böcker
 - events
 - cryptoparty
-date: 2014-04-23T09:28:32Z
-guid: http://pawal.blipp.com/?p=37664
-id: 37664
 title: Crypto och lillebror
 url: /bocker/crypto-och-lillebror
 ---

@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- apple
 date: 2006-02-28T18:58:46Z
 guid: http://pawal.blipp.com/apple/en-himla-speciell-dag
 id: 31
+tags:
+- apple
 title: En himla speciell dag
 url: /apple/en-himla-speciell-dag
 ---

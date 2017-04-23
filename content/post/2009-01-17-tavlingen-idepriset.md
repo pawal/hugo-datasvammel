@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- skvaller
-- tävling
 date: 2009-01-17T16:16:38Z
 guid: http://pawal.blipp.com/?p=138
 id: 138
+tags:
+- skvaller
+- tävling
 title: Tävlingen Idépriset
 url: /skvaller/tavlingen-idepriset
 ---

@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- oldschool
 date: 2006-02-26T12:04:33Z
 guid: http://pawal.blipp.com/uncategorized/mailinglistor-ar-inte-forra-seklet
 id: 29
+tags:
+- oldschool
 title: Mailinglistor är inte förra seklet
 url: /oldschool/mailinglistor-ar-inte-forra-seklet
 ---

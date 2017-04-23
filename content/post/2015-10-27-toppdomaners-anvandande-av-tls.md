@@ -1,13 +1,13 @@
 ---
 author: pawal
+date: 2015-10-27T20:17:42Z
+guid: https://pawal.blipp.com/?p=37711
+id: 37711
 tags:
 - dns
 - säkerhet
 - svammel
 - domäner
-date: 2015-10-27T20:17:42Z
-guid: https://pawal.blipp.com/?p=37711
-id: 37711
 title: Toppdomäners användande av TLS
 url: /sakerhet/toppdomaners-anvandande-av-tls
 ---

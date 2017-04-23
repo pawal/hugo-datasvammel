@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- journalister
-- säkerhet
 date: 2006-08-31T06:45:07Z
 guid: http://pawal.blipp.com/journalister/nordea-och-dess-fraudkamp
 id: 54
+tags:
+- journalister
+- säkerhet
 title: Nordea och dess Fraudkamp
 url: /journalister/nordea-och-dess-fraudkamp
 ---

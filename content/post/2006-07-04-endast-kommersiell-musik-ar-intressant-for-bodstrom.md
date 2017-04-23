@@ -1,13 +1,13 @@
 ---
 author: pawal
+date: 2006-07-04T09:25:30Z
+guid: http://pawal.blipp.com/musik/endast-kommersiell-musik-ar-intressant-for-bodstrom
+id: 50
 tags:
 - mp3
 - musik
 - politik
 - upphovsrätt
-date: 2006-07-04T09:25:30Z
-guid: http://pawal.blipp.com/musik/endast-kommersiell-musik-ar-intressant-for-bodstrom
-id: 50
 title: Endast kommersiell musik är intressant för Bodström
 url: /musik/endast-kommersiell-musik-ar-intressant-for-bodstrom
 ---

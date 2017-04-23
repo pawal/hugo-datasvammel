@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- hårdvara
-- linux
 date: 2006-03-30T06:53:34Z
 guid: http://pawal.blipp.com/hardvara/livsfarliga-knappar
 id: 34
+tags:
+- hårdvara
+- linux
 title: Livsfarliga knappar
 url: /hardvara/livsfarliga-knappar
 ---

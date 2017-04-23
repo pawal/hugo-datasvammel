@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- hacks
 date: 2007-01-06T00:00:12Z
 guid: http://pawal.blipp.com/hacks/galet-perl-misstag
 id: 64
+tags:
+- hacks
 title: Galet Perl-misstag
 url: /hacks/galet-perl-misstag
 ---

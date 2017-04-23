@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- hårdvara
-- oldschool
 date: 2006-02-22T20:38:01Z
 guid: http://pawal.blipp.com/oldschool/technoskrot
 id: 26
+tags:
+- hårdvara
+- oldschool
 title: Technoskrot
 url: /oldschool/technoskrot
 ---

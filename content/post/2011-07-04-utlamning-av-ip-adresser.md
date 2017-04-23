@@ -1,13 +1,13 @@
 ---
 author: pawal
-tags:
-- creeper
-- politik
 date: 2011-07-04T12:38:46Z
 guid: http://pawal.blipp.com/?p=25588
 has_been_twittered:
 - "yes"
 id: 25588
+tags:
+- creeper
+- politik
 title: Utlämning av IP-adresser
 url: /politik/utlamning-av-ip-adresser
 ---

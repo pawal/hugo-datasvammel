@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2008-11-17T17:32:25Z
+guid: http://pawal.blipp.com/?p=132
+id: 132
 tags:
 - creeper
 - integritet
 - journalister
-date: 2008-11-17T17:32:25Z
-guid: http://pawal.blipp.com/?p=132
-id: 132
 title: MediaCreeper får upp farten
 url: /integritet/mediacreeper-far-upp-farten
 ---

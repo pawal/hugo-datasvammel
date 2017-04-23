@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2008-09-11T01:00:52Z
+guid: http://pawal.blipp.com/?p=126
+id: 126
 tags:
 - creeper
 - hårdvara
 - linux
-date: 2008-09-11T01:00:52Z
-guid: http://pawal.blipp.com/?p=126
-id: 126
 title: Ny server installerad
 url: /hardvara/ny-server-installerad
 ---

@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- voip
 date: 2006-04-04T00:04:02Z
 guid: http://pawal.blipp.com/voip/att-kora-voip
 id: 35
+tags:
+- voip
 title: Att köra VoIP
 url: /voip/att-kora-voip
 ---

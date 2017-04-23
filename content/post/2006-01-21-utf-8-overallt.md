@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- linux
 date: 2006-01-21T19:10:28Z
 guid: http://datasvammel.blipp.com/?p=10
 id: 10
+tags:
+- linux
 title: UTF-8 överallt
 url: /linux/utf-8-overallt
 ---

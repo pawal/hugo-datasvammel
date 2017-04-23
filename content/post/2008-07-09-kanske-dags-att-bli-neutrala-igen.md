@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- integritet
-- politik
 date: 2008-07-09T09:19:33Z
 guid: http://pawal.blipp.com/?p=119
 id: 119
+tags:
+- integritet
+- politik
 title: Kanske dags att bli neutrala igen?
 url: /integritet/kanske-dags-att-bli-neutrala-igen
 ---

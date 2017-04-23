@@ -1,13 +1,13 @@
 ---
 author: pawal
+date: 2008-07-07T14:13:27Z
+guid: http://pawal.blipp.com/?p=118
+id: 118
 tags:
 - creeper
 - integritet
 - journalister
 - statistik
-date: 2008-07-07T14:13:27Z
-guid: http://pawal.blipp.com/?p=118
-id: 118
 title: Resultat av Creeper-enkäten
 url: /integritet/resultat-av-creeper-enkaten
 ---

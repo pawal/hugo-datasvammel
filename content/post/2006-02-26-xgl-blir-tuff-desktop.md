@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- linux
 date: 2006-02-26T17:44:01Z
 guid: http://pawal.blipp.com/linux/xgl-blir-tuff-desktop
 id: 30
+tags:
+- linux
 title: Xgl blir tuff desktop
 url: /linux/xgl-blir-tuff-desktop
 ---

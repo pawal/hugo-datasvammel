@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- oldschool
 date: 2006-09-09T13:17:44Z
 guid: http://pawal.blipp.com/oldschool/sista-dagarna-for-advogato-ar-raknade
 id: 55
+tags:
+- oldschool
 title: Sista dagarna för Advogato är räknade
 url: /oldschool/sista-dagarna-for-advogato-ar-raknade
 ---

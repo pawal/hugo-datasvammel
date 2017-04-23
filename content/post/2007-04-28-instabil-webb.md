@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- hårdvara
-- säkerhet
 date: 2007-04-28T21:53:32Z
 guid: http://pawal.blipp.com/hardvara/instabil-webb
 id: 76
+tags:
+- hårdvara
+- säkerhet
 title: Instabil webb
 url: /hardvara/instabil-webb
 ---

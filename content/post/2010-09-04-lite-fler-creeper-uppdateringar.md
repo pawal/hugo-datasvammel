@@ -1,12 +1,12 @@
 ---
 author: pawal
-tags:
-- creeper
 date: 2010-09-04T16:12:00Z
 guid: http://pawal.blipp.com/?p=831
 has_been_twittered:
 - "yes"
 id: 831
+tags:
+- creeper
 title: Lite fler Creeper-uppdateringar
 url: /creeper/lite-fler-creeper-uppdateringar
 ---

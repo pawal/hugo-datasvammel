@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- gnuheter
-- upphovsrätt
 date: 2006-05-15T19:51:23Z
 guid: http://pawal.blipp.com/upphovsratt/vilka-bloggar-syndikeras
 id: 43
+tags:
+- gnuheter
+- upphovsrätt
 title: Vilka bloggar syndikeras?
 url: /upphovsratt/vilka-bloggar-syndikeras
 ---

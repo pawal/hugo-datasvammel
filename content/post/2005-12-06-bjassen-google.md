@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- integritet
-- web2.0
 date: 2005-12-06T10:57:45Z
 guid: http://datasvammel.blipp.com/?p=21
 id: 21
+tags:
+- integritet
+- web2.0
 title: Bjässen Google
 url: /integritet/bjassen-google
 ---

@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- humor
-- upphovsrätt
 date: 2009-01-20T13:28:48Z
 guid: http://pawal.blipp.com/?p=140
 id: 140
+tags:
+- humor
+- upphovsrätt
 title: Larry Lessig hos Colbert
 url: /upphovsratt/larry-lessig-hos-colbert
 ---

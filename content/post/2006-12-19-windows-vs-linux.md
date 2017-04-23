@@ -1,14 +1,14 @@
 ---
 author: pawal
+date: 2006-12-19T14:46:53Z
+guid: http://pawal.blipp.com/microsoft/windows-vs-linux
+id: 62
 tags:
 - linux
 - microsoft
 - mjukvara
 - säkerhet
 - visualisering
-date: 2006-12-19T14:46:53Z
-guid: http://pawal.blipp.com/microsoft/windows-vs-linux
-id: 62
 title: Windows vs Linux
 url: /microsoft/windows-vs-linux
 ---

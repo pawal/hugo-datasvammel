@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2007-02-23T10:04:10Z
+guid: http://pawal.blipp.com/integritet/uppfoljning-av-svt-och-fra-postningen
+id: 69
 tags:
 - integritet
 - journalister
 - säkerhet
-date: 2007-02-23T10:04:10Z
-guid: http://pawal.blipp.com/integritet/uppfoljning-av-svt-och-fra-postningen
-id: 69
 title: Uppföljning av SVT och FRA-postningen
 url: /integritet/uppfoljning-av-svt-och-fra-postningen
 ---

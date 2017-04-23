@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- linux
-- microsoft
 date: 2007-02-03T22:05:53Z
 guid: http://pawal.blipp.com/microsoft/linux-genuine-advantage%e2%84%a2
 id: 66
+tags:
+- linux
+- microsoft
 title: Linux Genuine Advantage™
 url: /microsoft/linux-genuine-advantage
 ---

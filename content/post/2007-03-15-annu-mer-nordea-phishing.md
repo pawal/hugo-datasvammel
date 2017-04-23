@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- säkerhet
-- spam
 date: 2007-03-15T11:26:53Z
 guid: http://pawal.blipp.com/sakerhet/annu-mer-nordea-phishing
 id: 72
+tags:
+- säkerhet
+- spam
 title: Ännu mer Nordea-phishing!
 url: /sakerhet/annu-mer-nordea-phishing
 ---

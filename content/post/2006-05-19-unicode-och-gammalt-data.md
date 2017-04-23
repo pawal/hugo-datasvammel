@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- linux
 date: 2006-05-19T10:27:16Z
 guid: http://pawal.blipp.com/linux/unicode-och-gammalt-data
 id: 44
+tags:
+- linux
 title: Unicode och gammalt data
 url: /linux/unicode-och-gammalt-data
 ---

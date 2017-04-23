@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2008-10-01T22:08:58Z
+guid: http://pawal.blipp.com/?p=129
+id: 129
 tags:
 - integritet
 - journalister
 - visualisering
-date: 2008-10-01T22:08:58Z
-guid: http://pawal.blipp.com/?p=129
-id: 129
 title: Maktbasen och sociogram
 url: /integritet/maktbasen-och-sociogram
 ---

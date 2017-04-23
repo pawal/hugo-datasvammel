@@ -5,12 +5,12 @@ categories:
 date: 2015-02-14T11:01:11Z
 guid: https://pawal.blipp.com/?p=37704
 id: 37704
-title: Se Wikipedia-ändringar med Creeper
-url: /creeper/se-wikipedia-andringar-med-creeper
 tags:
 - creeper
 - wikipedia
 - undervakning
+title: Se Wikipedia-ändringar med Creeper
+url: /creeper/se-wikipedia-andringar-med-creeper
 ---
 
 Inspirerat av <a href="https://twitter.com/WikiCreeperEdit">WikiCreeperEdit</a> så har jag fått hjälp med att skapa en sida på Creeper som visar samma ändringar, men lite mer sammanställt, och förhoppningsvis mer användarvänligt.

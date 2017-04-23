@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- linux
 date: 2006-10-10T12:30:01Z
 guid: http://pawal.blipp.com/linux/ett-litet-google-hyss
 id: 57
+tags:
+- linux
 title: Ett litet Google-hyss
 url: /linux/ett-litet-google-hyss
 ---

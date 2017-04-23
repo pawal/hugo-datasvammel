@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- oldschool
-- politik
 date: 2006-10-07T11:17:29Z
 guid: http://pawal.blipp.com/uncategorized/alla-skriver-om-carl-bildt
 id: 56
+tags:
+- oldschool
+- politik
 title: Alla skriver om Carl Bildt
 url: /oldschool/alla-skriver-om-carl-bildt
 ---

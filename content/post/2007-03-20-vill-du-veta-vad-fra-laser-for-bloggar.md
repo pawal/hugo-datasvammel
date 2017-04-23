@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- integritet
-- politik
 date: 2007-03-20T11:39:28Z
 guid: http://pawal.blipp.com/integritet/vill-du-veta-vad-fra-laser-for-bloggar
 id: 73
+tags:
+- integritet
+- politik
 title: Vill du veta vad FRA läser för bloggar?
 url: /integritet/vill-du-veta-vad-fra-laser-for-bloggar
 ---

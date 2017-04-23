@@ -1,13 +1,13 @@
 ---
 author: pawal
-tags:
-- svammel
-- disclaimers
 date: 2010-02-15T18:05:28Z
 guid: http://pawal.blipp.com/?p=180
 id: 180
 jd_tweet_this:
 - "yes"
+tags:
+- svammel
+- disclaimers
 title: Fåniga disclaimers
 url: /svammel/faniga-disclaimers
 wp_jd_clig:

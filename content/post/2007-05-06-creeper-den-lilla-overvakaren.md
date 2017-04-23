@@ -1,13 +1,13 @@
 ---
 author: pawal
+date: 2007-05-06T14:55:43Z
+guid: http://pawal.blipp.com/hacks/creeper-den-lilla-overvakaren
+id: 77
 tags:
 - creeper
 - hacks
 - integritet
 - politik
-date: 2007-05-06T14:55:43Z
-guid: http://pawal.blipp.com/hacks/creeper-den-lilla-overvakaren
-id: 77
 title: Creeper &#8211; den lilla övervakaren
 url: /hacks/creeper-den-lilla-overvakaren
 ---

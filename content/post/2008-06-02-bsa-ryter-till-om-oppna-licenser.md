@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- journalister
-- microsoft
 date: 2008-06-02T09:33:09Z
 guid: http://pawal.blipp.com/?p=114
 id: 114
+tags:
+- journalister
+- microsoft
 title: BSA ryter till om "öppna licenser"
 url: /microsoft/bsa-ryter-till-om-oppna-licenser
 ---

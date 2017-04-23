@@ -1,13 +1,13 @@
 ---
 author: pawal
-tags:
-- statistik
-- upphovsrätt
 date: 2009-06-16T12:23:24Z
 guid: http://pawal.blipp.com/?p=159
 id: 159
 jd_tweet_this:
 - "yes"
+tags:
+- statistik
+- upphovsrätt
 title: Trafiken ökar igen
 url: /upphovsratt/trafiken-okar-igen
 wp_jd_clig:

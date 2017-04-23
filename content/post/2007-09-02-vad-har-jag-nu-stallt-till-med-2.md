@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2007-09-02T20:21:40Z
+guid: http://pawal.blipp.com/integritet/vad-har-jag-nu-stallt-till-med-2
+id: 92
 tags:
 - creeper
 - integritet
 - journalister
-date: 2007-09-02T20:21:40Z
-guid: http://pawal.blipp.com/integritet/vad-har-jag-nu-stallt-till-med-2
-id: 92
 title: Vad har jag nu ställt till med?
 url: /integritet/vad-har-jag-nu-stallt-till-med-2
 ---

@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- mjukvara
-- politik
 date: 2007-02-05T11:03:29Z
 guid: http://pawal.blipp.com/politik/franska-studenter-far-fri-programvara
 id: 67
+tags:
+- mjukvara
+- politik
 title: Franska studenter får fri programvara
 url: /politik/franska-studenter-far-fri-programvara
 ---

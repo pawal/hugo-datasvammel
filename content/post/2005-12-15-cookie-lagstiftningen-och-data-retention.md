@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- integritet
-- politik
 date: 2005-12-15T09:28:10Z
 guid: http://datasvammel.blipp.com/?p=15
 id: 15
+tags:
+- integritet
+- politik
 title: Cookie-lagstiftningen och data retention
 url: /integritet/cookie-lagstiftningen-och-data-retention
 ---

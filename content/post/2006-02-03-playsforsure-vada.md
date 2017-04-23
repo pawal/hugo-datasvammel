@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2006-02-03T10:17:43Z
+guid: http://datasvammel.blipp.com/?p=5
+id: 5
 tags:
 - drm
 - microsoft
 - musik
-date: 2006-02-03T10:17:43Z
-guid: http://datasvammel.blipp.com/?p=5
-id: 5
 title: PlaysForSure vadå?
 url: /microsoft/playsforsure-vada
 ---

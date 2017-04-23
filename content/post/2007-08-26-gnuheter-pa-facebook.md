@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- gnuheter
-- skvaller
 date: 2007-08-26T12:59:58Z
 guid: http://pawal.blipp.com/skvaller/gnuheter-pa-facebook
 id: 90
+tags:
+- gnuheter
+- skvaller
 title: Gnuheter på Facebook
 url: /skvaller/gnuheter-pa-facebook
 ---

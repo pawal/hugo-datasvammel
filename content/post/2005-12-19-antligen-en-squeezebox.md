@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- hårdvara
-- musik
 date: 2005-12-19T19:37:01Z
 guid: http://datasvammel.blipp.com/?p=13
 id: 13
+tags:
+- hårdvara
+- musik
 title: Äntligen en Squeezebox
 url: /musik/antligen-en-squeezebox
 ---

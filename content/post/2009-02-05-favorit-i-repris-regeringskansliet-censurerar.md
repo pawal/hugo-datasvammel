@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2009-02-05T22:10:25Z
+guid: http://pawal.blipp.com/?p=141
+id: 141
 tags:
 - censur
 - creeper
 - politik
-date: 2009-02-05T22:10:25Z
-guid: http://pawal.blipp.com/?p=141
-id: 141
 title: Favorit i repris - Regeringskansliet censurerar
 url: /politik/favorit-i-repris-regeringskansliet-censurerar
 ---

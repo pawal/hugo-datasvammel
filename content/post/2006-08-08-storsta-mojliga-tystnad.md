@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- hårdvara
-- ljud
 date: 2006-08-08T08:39:28Z
 guid: http://pawal.blipp.com/hardvara/storsta-mojliga-tystnad
 id: 52
+tags:
+- hårdvara
+- ljud
 title: Största möjliga tystnad
 url: /hardvara/storsta-mojliga-tystnad
 ---

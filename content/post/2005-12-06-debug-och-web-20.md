@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- musik
-- web2.0
 date: 2005-12-06T12:23:52Z
 guid: http://datasvammel.blipp.com/?p=23
 id: 23
+tags:
+- musik
+- web2.0
 title: De:Bug och Web 2.0
 url: /musik/debug-och-web-20
 ---

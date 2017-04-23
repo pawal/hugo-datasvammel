@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- ljud
-- musik
 date: 2008-11-10T22:23:34Z
 guid: http://pawal.blipp.com/?p=131
 id: 131
+tags:
+- ljud
+- musik
 title: Synthnörden i mig tittar fram igen
 url: /musik/synthnorden-i-mig-tittar-fram-igen
 ---

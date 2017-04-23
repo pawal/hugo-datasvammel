@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- mjukvara
-- visualisering
 date: 2007-09-06T12:54:55Z
 guid: http://pawal.blipp.com/mjukvara/nytt-hopp-for-3d-varldar
 id: 93
+tags:
+- mjukvara
+- visualisering
 title: Nytt hopp för 3D-världar
 url: /mjukvara/nytt-hopp-for-3d-varldar
 ---

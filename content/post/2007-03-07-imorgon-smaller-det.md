@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2007-03-07T20:33:28Z
+guid: http://pawal.blipp.com/integritet/imorgon-smaller-det
+id: 70
 tags:
 - integritet
 - politik
 - säkerhet
-date: 2007-03-07T20:33:28Z
-guid: http://pawal.blipp.com/integritet/imorgon-smaller-det
-id: 70
 title: Imorgon smäller det
 url: /integritet/imorgon-smaller-det
 ---

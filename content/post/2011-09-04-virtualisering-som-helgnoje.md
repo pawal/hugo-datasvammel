@@ -1,14 +1,14 @@
 ---
 author: pawal
-tags:
-- linux
-- mjukvara
-- virtualisering
 date: 2011-09-04T21:23:35Z
 guid: http://pawal.blipp.com/?p=28494
 has_been_twittered:
 - "yes"
 id: 28494
+tags:
+- linux
+- mjukvara
+- virtualisering
 title: Virtualisering som helgnöje
 url: /linux/virtualisering-som-helgnoje
 ---

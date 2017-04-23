@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2007-02-21T11:18:20Z
+guid: http://pawal.blipp.com/integritet/svt-skickar-sin-e-post-utomlands
+id: 68
 tags:
 - integritet
 - journalister
 - säkerhet
-date: 2007-02-21T11:18:20Z
-guid: http://pawal.blipp.com/integritet/svt-skickar-sin-e-post-utomlands
-id: 68
 title: SVT skickar sin e-post utomlands
 url: /integritet/svt-skickar-sin-e-post-utomlands
 ---

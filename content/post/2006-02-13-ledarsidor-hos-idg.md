@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- drm
-- journalister
 date: 2006-02-13T10:00:14Z
 guid: http://datasvammel.blipp.com/drm/ledarsidor-hos-idg
 id: 24
+tags:
+- drm
+- journalister
 title: Ledarsidor hos IDG
 url: /drm/ledarsidor-hos-idg
 ---

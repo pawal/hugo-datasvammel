@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- musik
 date: 2008-10-01T09:59:04Z
 guid: http://pawal.blipp.com/?p=128
 id: 128
+tags:
+- musik
 title: Dom Dummaste
 url: /musik/dom-dummaste
 ---

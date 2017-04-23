@@ -1,13 +1,13 @@
 ---
 author: pawal
-tags:
-- creeper
-- statistik
 date: 2009-06-02T09:53:31Z
 guid: http://pawal.blipp.com/?p=152
 id: 152
 jd_tweet_this:
 - "yes"
+tags:
+- creeper
+- statistik
 title: Två år Creeper-statistik
 url: /creeper/tva-ar-creeper-statistik
 wp_jd_clig:

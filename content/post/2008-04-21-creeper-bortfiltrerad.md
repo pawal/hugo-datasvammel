@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2008-04-21T12:50:14Z
+guid: http://pawal.blipp.com/?p=106
+id: 106
 tags:
 - creeper
 - integritet
 - politik
-date: 2008-04-21T12:50:14Z
-guid: http://pawal.blipp.com/?p=106
-id: 106
 title: Creeper bortfiltrerad?
 url: /integritet/creeper-bortfiltrerad
 ---

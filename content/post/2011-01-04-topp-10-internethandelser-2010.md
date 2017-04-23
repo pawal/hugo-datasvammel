@@ -1,12 +1,12 @@
 ---
 author: pawal
-tags:
-- svammel
 date: 2011-01-04T21:50:15Z
 guid: http://pawal.blipp.com/?p=15195
 has_been_twittered:
 - "yes"
 id: 15195
+tags:
+- svammel
 title: Topp 10 Internethändelser 2010
 url: /svammel/topp-10-internethandelser-2010
 ---

@@ -1,14 +1,14 @@
 ---
 author: pawal
-tags:
-- mjukvara
-- programmering
-- statistik
 date: 2009-03-11T22:40:43Z
 guid: http://pawal.blipp.com/?p=142
 id: 142
 jd_tweet_this:
 - "yes"
+tags:
+- mjukvara
+- programmering
+- statistik
 title: Versionsnummer-hysteri
 url: /mjukvara/versionsnummer-hysteri
 wp_jd_clig:

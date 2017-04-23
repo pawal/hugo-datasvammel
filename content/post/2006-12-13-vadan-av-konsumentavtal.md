@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- gnuheter
 date: 2006-12-13T09:39:30Z
 guid: http://pawal.blipp.com/gnuheter/vadan-av-konsumentavtal
 id: 61
+tags:
+- gnuheter
 title: Vådan av konsumentavtal
 url: /gnuheter/vadan-av-konsumentavtal
 ---

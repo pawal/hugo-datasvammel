@@ -1,14 +1,14 @@
 ---
 author: pawal
-tags:
-- hårdvara
-- säkerhet
-- svammel
 date: 2011-04-12T11:00:28Z
 guid: http://pawal.blipp.com/?p=21210
 has_been_twittered:
 - "yes"
 id: 21210
+tags:
+- hårdvara
+- säkerhet
+- svammel
 title: FRA:s gamla superdator
 url: /hardvara/fras-gamla-superdator
 ---

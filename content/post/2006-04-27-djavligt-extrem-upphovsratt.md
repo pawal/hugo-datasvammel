@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- politik
-- upphovsrätt
 date: 2006-04-27T18:18:00Z
 guid: http://pawal.blipp.com/politik/djavligt-extrem-upphovsratt
 id: 39
+tags:
+- politik
+- upphovsrätt
 title: Djävligt extrem upphovsrätt
 url: /politik/djavligt-extrem-upphovsratt
 ---

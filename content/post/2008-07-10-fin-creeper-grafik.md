@@ -1,13 +1,13 @@
 ---
 author: pawal
+date: 2008-07-10T10:21:07Z
+guid: http://pawal.blipp.com/?p=120
+id: 120
 tags:
 - creeper
 - statistik
 - visualisering
 - undervakning
-date: 2008-07-10T10:21:07Z
-guid: http://pawal.blipp.com/?p=120
-id: 120
 title: Fin Creeper-grafik
 url: /visualisering/fin-creeper-grafik
 ---

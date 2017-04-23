@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- creeper
-- politik
 date: 2007-05-24T20:23:02Z
 guid: http://pawal.blipp.com/creeper/fra-forslaget-fordrojs
 id: 80
+tags:
+- creeper
+- politik
 title: FRA-förslaget fördröjs
 url: /politik/fra-forslaget-fordrojs
 ---

@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- linux
 date: 2005-12-06T10:58:08Z
 guid: http://datasvammel.blipp.com/?p=22
 id: 22
+tags:
+- linux
 title: PGP, SKS och KDE
 url: /linux/pgp-sks-och-kde
 ---

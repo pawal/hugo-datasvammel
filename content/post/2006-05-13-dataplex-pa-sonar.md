@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- ljud
-- musik
 date: 2006-05-13T12:35:42Z
 guid: http://pawal.blipp.com/musik/dataplex-pa-sonar
 id: 41
+tags:
+- ljud
+- musik
 title: Dataplex på Sónar
 url: /musik/dataplex-pa-sonar
 ---

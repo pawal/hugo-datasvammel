@@ -1,13 +1,13 @@
 ---
 author: pawal
-tags:
-- dns
-- säkerhet
 date: 2010-12-03T10:32:11Z
 guid: http://pawal.blipp.com/?p=13153
 has_been_twittered:
 - "yes"
 id: 13153
+tags:
+- dns
+- säkerhet
 title: När DNS ljuger
 url: /sakerhet/nar-dns-ljuger
 ---

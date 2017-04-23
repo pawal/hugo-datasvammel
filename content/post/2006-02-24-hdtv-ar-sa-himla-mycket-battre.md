@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- hårdvara
-- journalister
 date: 2006-02-24T17:04:24Z
 guid: http://pawal.blipp.com/hardvara/hdtv-ar-sa-himla-mycket-battre
 id: 27
+tags:
+- hårdvara
+- journalister
 title: HDTV är så himla mycket bättre
 url: /hardvara/hdtv-ar-sa-himla-mycket-battre
 ---

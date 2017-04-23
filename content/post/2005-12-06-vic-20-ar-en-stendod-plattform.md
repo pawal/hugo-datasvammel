@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- musik
-- oldschool
 date: 2005-12-06T23:45:18Z
 guid: http://datasvammel.blipp.com/?p=19
 id: 19
+tags:
+- musik
+- oldschool
 title: VIC-20 är en stendöd plattform
 url: /oldschool/vic-20-ar-en-stendod-plattform
 ---

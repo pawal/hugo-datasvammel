@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- integritet
 date: 2006-08-15T08:29:54Z
 guid: http://pawal.blipp.com/integritet/att-lita-pa-anonymitet
 id: 53
+tags:
+- integritet
 title: Att lita på anonymitet
 url: /integritet/att-lita-pa-anonymitet
 ---

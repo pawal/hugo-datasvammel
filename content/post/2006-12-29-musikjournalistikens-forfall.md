@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2006-12-29T11:41:14Z
+guid: http://pawal.blipp.com/musik/musikjournalistikens-forfall
+id: 63
 tags:
 - journalister
 - musik
 - upphovsrätt
-date: 2006-12-29T11:41:14Z
-guid: http://pawal.blipp.com/musik/musikjournalistikens-forfall
-id: 63
 title: Musikjournalistikens förfall
 url: /musik/musikjournalistikens-forfall
 ---

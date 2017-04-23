@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- politik
-- upphovsrätt
 date: 2008-03-14T04:06:37Z
 guid: http://pawal.blipp.com/politik/musik-och-film-pa-natet-upphovsrattsforesprakarna
 id: 102
+tags:
+- politik
+- upphovsrätt
 title: Musik och film på nätet - upphovsrättsförespråkarna
 url: /politik/musik-och-film-pa-natet-upphovsrattsforesprakarna
 ---

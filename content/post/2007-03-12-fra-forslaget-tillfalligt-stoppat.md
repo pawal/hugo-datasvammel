@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2007-03-12T15:54:03Z
+guid: http://pawal.blipp.com/integritet/fra-forslaget-tillfalligt-stoppat
+id: 71
 tags:
 - integritet
 - politik
 - säkerhet
-date: 2007-03-12T15:54:03Z
-guid: http://pawal.blipp.com/integritet/fra-forslaget-tillfalligt-stoppat
-id: 71
 title: FRA-förslaget tillfälligt stoppat
 url: /integritet/fra-forslaget-tillfalligt-stoppat
 ---

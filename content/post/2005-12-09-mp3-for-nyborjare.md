@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- drm
-- mp3
 date: 2005-12-09T16:30:55Z
 guid: http://datasvammel.blipp.com/?p=17
 id: 17
+tags:
+- drm
+- mp3
 title: MP3 för nybörjare
 url: /drm/mp3-for-nyborjare
 ---

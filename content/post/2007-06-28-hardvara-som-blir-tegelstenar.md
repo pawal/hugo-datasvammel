@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- hårdvara
-- mjukvara
 date: 2007-06-28T17:35:39Z
 guid: http://pawal.blipp.com/hardvara/hardvara-som-blir-tegelstenar
 id: 86
+tags:
+- hårdvara
+- mjukvara
 title: Hårdvara som blir tegelstenar
 url: /hardvara/hardvara-som-blir-tegelstenar
 ---

@@ -1,13 +1,13 @@
 ---
 author: pawal
+date: 2008-07-13T23:39:19Z
+guid: http://pawal.blipp.com/?p=122
+id: 122
 tags:
 - ljud
 - mp3
 - musik
 - oldschool
-date: 2008-07-13T23:39:19Z
-guid: http://pawal.blipp.com/?p=122
-id: 122
 title: Error in Bassdrum '92
 url: /oldschool/error-in-bassdrum-92
 ---

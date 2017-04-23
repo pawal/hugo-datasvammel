@@ -1,8 +1,5 @@
 ---
 author: pawal
-tags:
-- ljud
-- skvaller
 date: 2006-03-04T11:45:35Z
 enclosure:
 - |
@@ -15,6 +12,9 @@ enclosure:
   audio/mpeg
 guid: http://pawal.blipp.com/uncategorized/elitlistan-bara-toppen-av-ett-isberg
 id: 32
+tags:
+- ljud
+- skvaller
 title: Elitlistan bara toppen av ett isberg
 url: /ljud/elitlistan-bara-toppen-av-ett-isberg
 ---

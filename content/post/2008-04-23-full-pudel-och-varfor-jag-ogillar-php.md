@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- creeper
-- php
 date: 2008-04-23T05:09:22Z
 guid: http://pawal.blipp.com/?p=107
 id: 107
+tags:
+- creeper
+- php
 title: Full pudel och varför jag ogillar PHP
 url: /creeper/full-pudel-och-varfor-jag-ogillar-php
 ---

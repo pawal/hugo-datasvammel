@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- journalister
 date: 2007-04-25T14:28:10Z
 guid: http://pawal.blipp.com/journalister/html-trendigt
 id: 75
+tags:
+- journalister
 title: HTML-trendigt
 url: /journalister/html-trendigt
 ---

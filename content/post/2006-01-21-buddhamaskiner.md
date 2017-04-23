@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- hårdvara
-- musik
 date: 2006-01-21T14:07:50Z
 guid: http://datasvammel.blipp.com/?p=11
 id: 11
+tags:
+- hårdvara
+- musik
 title: Buddhamaskiner
 url: /musik/buddhamaskiner
 ---

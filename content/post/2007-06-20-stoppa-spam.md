@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- spam
 date: 2007-06-20T23:48:31Z
 guid: http://pawal.blipp.com/spam/stoppa-spam
 id: 85
+tags:
+- spam
 title: Stoppa spam
 url: /spam/stoppa-spam
 ---

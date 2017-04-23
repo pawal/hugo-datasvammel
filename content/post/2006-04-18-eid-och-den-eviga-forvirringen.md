@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- identitet
-- integritet
 date: 2006-04-18T21:04:06Z
 guid: http://pawal.blipp.com/integritet/eid-och-den-eviga-forvirringen
 id: 37
+tags:
+- identitet
+- integritet
 title: eID och den eviga förvirringen
 url: /integritet/eid-och-den-eviga-forvirringen
 ---

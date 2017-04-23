@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- ljud
-- musik
 date: 2006-01-29T18:05:29Z
 guid: http://datasvammel.blipp.com/?p=8
 id: 8
+tags:
+- ljud
+- musik
 title: Mer CPU-kraft tack
 url: /musik/mer-cpu-kraft-tack
 ---

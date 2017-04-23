@@ -1,10 +1,10 @@
 ---
 author: pawal
-tags:
-- spam
 date: 2007-08-09T12:11:34Z
 guid: http://pawal.blipp.com/spam/alldeles-for-mycket-pengar-i-spam
 id: 88
+tags:
+- spam
 title: Alldeles för mycket pengar i spam
 url: /spam/alldeles-for-mycket-pengar-i-spam
 ---

@@ -1,12 +1,12 @@
 ---
 author: pawal
-tags:
-- musik
 date: 2011-03-21T22:57:10Z
 guid: http://pawal.blipp.com/?p=19404
 has_been_twittered:
 - "yes"
 id: 19404
+tags:
+- musik
 title: Tänkte prova Soundcloud
 url: /musik/tankte-prova-soundcloud
 ---

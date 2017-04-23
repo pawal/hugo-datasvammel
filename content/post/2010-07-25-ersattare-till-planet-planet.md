@@ -1,13 +1,13 @@
 ---
 author: pawal
-tags:
-- gnuheter
-- programmering
 date: 2010-07-25T09:33:09Z
 guid: http://pawal.blipp.com/?p=187
 has_been_twittered:
 - "yes"
 id: 187
+tags:
+- gnuheter
+- programmering
 title: Ersättare till "planet planet"
 url: /gnuheter/ersattare-till-planet-planet
 ---

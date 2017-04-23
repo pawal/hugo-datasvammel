@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2006-07-03T13:06:30Z
+guid: http://pawal.blipp.com/musik/freedborg-ett-minne-blott
+id: 49
 tags:
 - mp3
 - musik
 - upphovsrätt
-date: 2006-07-03T13:06:30Z
-guid: http://pawal.blipp.com/musik/freedborg-ett-minne-blott
-id: 49
 title: FreeDB.org ett minne blott?
 url: /musik/freedborg-ett-minne-blott
 ---

@@ -1,13 +1,13 @@
 ---
 author: pawal
-tags:
-- hårdvara
-- musik
 date: 2006-01-30T21:25:38Z
 guid: http://datasvammel.blipp.com/?p=7
 id: 7
 jd_tweet_this:
 - "yes"
+tags:
+- hårdvara
+- musik
 title: Buddha i en liten ask
 url: /musik/buddha-i-en-liten-ask
 ---

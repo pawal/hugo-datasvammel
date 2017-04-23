@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- integritet
-- journalister
 date: 2008-10-16T10:19:00Z
 guid: http://pawal.blipp.com/?p=130
 id: 130
+tags:
+- integritet
+- journalister
 title: Utlandstvätt av e-post allvarligare
 url: /integritet/utlandstvatt-av-e-post-allvarligare
 ---

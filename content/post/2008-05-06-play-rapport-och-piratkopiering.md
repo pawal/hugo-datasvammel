@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- video
-- web2.0
 date: 2008-05-06T10:47:11Z
 guid: http://pawal.blipp.com/?p=109
 id: 109
+tags:
+- video
+- web2.0
 title: Play Rapport och piratkopiering
 url: /web20/play-rapport-och-piratkopiering
 ---

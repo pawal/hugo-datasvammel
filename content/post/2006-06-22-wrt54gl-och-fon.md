@@ -1,12 +1,12 @@
 ---
 author: pawal
+date: 2006-06-22T16:54:04Z
+guid: http://pawal.blipp.com/hardvara/wrt54gl-och-fon
+id: 48
 tags:
 - hacks
 - hårdvara
 - linux
-date: 2006-06-22T16:54:04Z
-guid: http://pawal.blipp.com/hardvara/wrt54gl-och-fon
-id: 48
 title: WRT54GL och FON
 url: /hardvara/wrt54gl-och-fon
 ---

@@ -1,10 +1,5 @@
 ---
 author: pawal
-tags:
-- creeper
-- mjukvara
-- programmering
-- php
 date: 2010-03-01T10:18:48Z
 guid: http://pawal.blipp.com/?p=183
 has_been_twittered:
@@ -12,6 +7,11 @@ has_been_twittered:
 id: 183
 jd_tweet_this:
 - "yes"
+tags:
+- creeper
+- mjukvara
+- programmering
+- php
 title: Att smyga in funktioner
 url: /mjukvara/att-smyga-in-funktioner
 wp_jd_clig:

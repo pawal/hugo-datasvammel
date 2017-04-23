@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- politik
-- upphovsrätt
 date: 2007-10-08T20:23:52Z
 guid: http://pawal.blipp.com/politik/vad-lessig-pysslar-med-nu
 id: 97
+tags:
+- politik
+- upphovsrätt
 title: Vad Lessig pysslar med nu
 url: /politik/vad-lessig-pysslar-med-nu
 ---

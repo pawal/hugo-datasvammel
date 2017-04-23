@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- dns
-- öppen källkod
 date: 2014-06-24T22:49:25Z
 guid: http://pawal.blipp.com/?p=37670
 id: 37670
+tags:
+- dns
+- öppen källkod
 title: Många alternativa programvaror för DNS
 url: /dns/manga-alternativa-programvaror-for-dns
 ---

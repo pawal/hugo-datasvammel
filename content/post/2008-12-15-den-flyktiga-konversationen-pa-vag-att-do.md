@@ -1,11 +1,11 @@
 ---
 author: pawal
-tags:
-- integritet
-- säkerhet
 date: 2008-12-15T11:34:26Z
 guid: http://pawal.blipp.com/?p=135
 id: 135
+tags:
+- integritet
+- säkerhet
 title: Den flyktiga konversationen på väg att dö
 url: /integritet/den-flyktiga-konversationen-pa-vag-att-do
 ---
