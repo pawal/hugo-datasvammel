@@ -16,12 +16,12 @@ url: /microsoft/windows-vs-linux
 Richard Stiennon har på sin blogg postat väldigt klargörande bilder
 till varför Linux är lättare att göra säkert än Windows.
 
-<img src="https://blipp.com/misc/SysCallApachesmall.jpg" />
+![Syscall Apache](https://blipp.com/misc/SysCallApachesmall.jpg)
 
 Detta är systemanropen till en Apache webbserver när den levererar en
 bild som svar på ett HTTP-anrop.
 
-<img src="https://blipp.com/misc/SysCallIISsmall.jpg" />
+![Syscall IIS](https://blipp.com/misc/SysCallIISsmall.jpg)
 
 Och detta är en bild på när en IIS gör samma sak i en Windows Server.
 

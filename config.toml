@@ -6,6 +6,7 @@ copyright = "&copy; 2017. All rights reserved."
 canonifyurls = true
 paginate = 10
 theme = "blackburn"
+MetaDataFormat = "yaml"
 
 [indexes]
   tag = "tags"
@@ -33,25 +34,25 @@ theme = "blackburn"
 [menu]
   # Shown in the side menu.
   [[menu.main]]
-    name = "Home"
+    name = "Hem"
     pre = "<i class='fa fa-home fa-fw'></i>"
     weight = 0
     identifier = "home"
     url = "/"
   [[menu.main]]
-    name = "Posts"
+    name = "Inlägg"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 1
     identifier = "post"
     url = "/post/"
   [[menu.main]]
-    name = "About"
+    name = "Om mig"
     pre = "<i class='fa fa-user fa-fw'></i>"
     weight = 2
     identifier = "about"
     url = "/about/"
   [[menu.main]]
-    name = "Contact"
+    name = "Kontakt"
     pre = "<i class='fa fa-phone fa-fw'></i>"
     weight = 3
     url = "/contact/"
@@ -98,6 +99,7 @@ theme = "blackburn"
   # Music
   lastfm = "pawal"
   discogs = "pawal"
+  soundcloud = "pawal"
 
   # Other
   keybase = "pawal"
