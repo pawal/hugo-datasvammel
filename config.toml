@@ -3,10 +3,11 @@ title = "Datasvammel"
 author = "Patrik Wallström"
 # Shown in the side menu
 copyright = "&copy; 2017. All rights reserved."
-canonifyurls = true
+canonifyurls = false
 paginate = 10
 theme = "blackburn"
 MetaDataFormat = "yaml"
+publishDir = "/var/www/datasvammel"
 
 [indexes]
   tag = "tags"
