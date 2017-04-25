@@ -1,6 +1,8 @@
 baseurl = "https://pawal.blipp.com/"
 title = "Datasvammel"
 author = "Patrik Wallström"
+languageCode = "sv-se"
+
 # Shown in the side menu
 copyright = "&copy; 2017. All rights reserved."
 canonifyurls = false
@@ -31,6 +33,7 @@ publishDir = "/var/www/datasvammel"
   #custom_css = ["css/my.css"]
   #custom_js = ["js/my.js"]
   truncate = false
+  locale = "sv-SE"
 
 [menu]
   # Shown in the side menu.
